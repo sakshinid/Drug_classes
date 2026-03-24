@@ -1,2 +1,2 @@
 # Drug_classes
-This repo is for drud project
+This repo is for drug project
